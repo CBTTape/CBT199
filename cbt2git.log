@@ -1,22 +1,22 @@
-2025-04-15 00:28:32.713283 - Received CBT.V508.FILE199.PDS from FILE199.XMI 
-2025-04-15 00:28:32.715440 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/$$$#DATE
-2025-04-15 00:28:32.715876 - Found $DOC.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/$DOC
-2025-04-15 00:28:32.716232 - Found @FILE199.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/@FILE199
-2025-04-15 00:28:32.716562 - Found APFCMD.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/APFCMD
-2025-04-15 00:28:32.716766 - Found APFPGM.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/APFPGM
-2025-04-15 00:28:32.716990 - Found ASMJCL.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/ASMJCL
-2025-04-15 00:28:32.717313 - Found ASMJCLB.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/ASMJCLB
-2025-04-15 00:28:32.718007 - Found BLKSPTRK.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/BLKSPTRK
-2025-04-15 00:28:32.718891 - Found CMDPGM.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/CMDPGM
-2025-04-15 00:28:32.719276 - Found CMDPGM$.jcl (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/CMDPGM$
-2025-04-15 00:28:32.719521 - Found COMMAND.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/COMMAND
-2025-04-15 00:28:32.719887 - Found HELP.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/HELP
-2025-04-15 00:28:32.725905 - Found NEWSTUFF.xmi (application/xmit) in CBT.V508.FILE199.PDS, moved to PDS/NEWSTUFF.xmi
-2025-04-15 00:28:32.964789 - Received IBMUSER.COLE.PDS from NEWSTUFF.xmi 
-2025-04-15 00:28:32.966358 - Found ASM2ZAP.bin (application/octet-stream) in IBMUSER.COLE.PDS, moved to NEWSTUFF/ASM2ZAP
-2025-04-15 00:28:32.967187 - Found BLKSPTRK.txt (text/plain) in IBMUSER.COLE.PDS, moved to NEWSTUFF/BLKSPTRK
-2025-04-15 00:28:32.968194 - Found DSCOPY.txt (text/plain) in IBMUSER.COLE.PDS, moved to NEWSTUFF/DSCOPY
-2025-04-15 00:28:32.970675 - Found MACROS.bin (application/octet-stream) in IBMUSER.COLE.PDS, moved to NEWSTUFF/MACROS
-2025-04-15 00:28:32.973226 - Found SCHEDRUN.bin (application/octet-stream) in IBMUSER.COLE.PDS, moved to NEWSTUFF/SCHEDRUN
-2025-04-15 00:28:32.974186 - Found XREFASM.bin (application/octet-stream) in IBMUSER.COLE.PDS, moved to NEWSTUFF/XREFASM
-2025-04-15 00:28:32.975018 - Found PROGRAM.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/PROGRAM
+2025-04-15 19:15:51.984728 - Received CBT.V508.FILE199.PDS from FILE199.XMI 
+2025-04-15 19:15:51.986413 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/$$$#DATE
+2025-04-15 19:15:51.986735 - Found $DOC.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/$DOC
+2025-04-15 19:15:51.986787 - Found @FILE199.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/@FILE199
+2025-04-15 19:15:51.986980 - Found APFCMD.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/APFCMD
+2025-04-15 19:15:51.987164 - Found APFPGM.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/APFPGM
+2025-04-15 19:15:51.987346 - Found ASMJCL.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/ASMJCL
+2025-04-15 19:15:51.987516 - Found ASMJCLB.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/ASMJCLB
+2025-04-15 19:15:51.988111 - Found BLKSPTRK.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/BLKSPTRK
+2025-04-15 19:15:51.988933 - Found CMDPGM.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/CMDPGM
+2025-04-15 19:15:51.989265 - Found CMDPGM$.jcl (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/CMDPGM$
+2025-04-15 19:15:51.989468 - Found COMMAND.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/COMMAND
+2025-04-15 19:15:51.989792 - Found HELP.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/HELP
+2025-04-15 19:15:51.995277 - Found NEWSTUFF.xmi (application/xmit) in CBT.V508.FILE199.PDS, moved to PDS/NEWSTUFF.xmi
+2025-04-15 19:15:52.229440 - Received IBMUSER.COLE.PDS from NEWSTUFF.xmi 
+2025-04-15 19:15:52.230867 - Found ASM2ZAP.bin (application/octet-stream) in IBMUSER.COLE.PDS, moved to NEWSTUFF/ASM2ZAP
+2025-04-15 19:15:52.231676 - Found BLKSPTRK.txt (text/plain) in IBMUSER.COLE.PDS, moved to NEWSTUFF/BLKSPTRK
+2025-04-15 19:15:52.232673 - Found DSCOPY.txt (text/plain) in IBMUSER.COLE.PDS, moved to NEWSTUFF/DSCOPY
+2025-04-15 19:15:52.235083 - Found MACROS.bin (application/octet-stream) in IBMUSER.COLE.PDS, moved to NEWSTUFF/MACROS
+2025-04-15 19:15:52.237413 - Found SCHEDRUN.bin (application/octet-stream) in IBMUSER.COLE.PDS, moved to NEWSTUFF/SCHEDRUN
+2025-04-15 19:15:52.238282 - Found XREFASM.bin (application/octet-stream) in IBMUSER.COLE.PDS, moved to NEWSTUFF/XREFASM
+2025-04-15 19:15:52.239093 - Found PROGRAM.txt (text/plain) in CBT.V508.FILE199.PDS, moved to PDS/PROGRAM
